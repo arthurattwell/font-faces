@@ -1,0 +1,54 @@
+/* Open Sans https://fonts.google.com/specimen/Open+Sans */
+@font-face {
+    font-family: "Open Sans";
+    src: url(../fonts/OpenSans-Regular.ttf);
+}
+@font-face {
+    font-family: "Open Sans";
+    src: url(../fonts/OpenSans-Italic.ttf);
+    font-style: italic;
+}
+@font-face {
+    font-family: "Open Sans";
+    src: url(../fonts/OpenSans-Bold.ttf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: "Open Sans";
+    src: url(../fonts/OpenSans-BoldItalic.ttf);
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Open Sans";
+    src: url(../fonts/OpenSans-Light.ttf);
+    font-weight: 300;
+}
+@font-face {
+    font-family: "Open Sans";
+    src: url(../fonts/OpenSans-LightItalic.ttf);
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Open Sans";
+    src: url(../fonts/OpenSans-Semibold.ttf);
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Open Sans";
+    src: url(../fonts/OpenSans-SemiboldItalic.ttf);
+    font-weight: 600;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Open Sans";
+    src: url(../fonts/OpenSans-ExtraBold.ttf);
+    font-weight: 800;
+}
+@font-face {
+    font-family: "Open Sans";
+    src: url(../fonts/OpenSans-ExtraBoldItalic.ttf);
+    font-weight: 800;
+    font-style: italic;
+}

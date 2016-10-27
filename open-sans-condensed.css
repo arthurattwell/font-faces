@@ -1,0 +1,15 @@
+/* Open Sans Condensed https://fonts.google.com/specimen/Open+Sans+Condensed */
+@font-face {
+    font-family: "Open Sans Condensed";
+    src: url(../fonts/OpenSans-CondLight.ttf);
+}
+@font-face {
+    font-family: "Open Sans Condensed";
+    src: url(../fonts/OpenSans-CondBold.ttf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: "Open Sans Condensed";
+    src: url(../fonts/OpenSans-CondLightItalic.ttf);
+    font-style: italic;
+}
