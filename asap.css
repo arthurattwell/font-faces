@@ -1,0 +1,32 @@
+/* Asap https://fonts.google.com/specimen/Asap */
+@font-face {
+    font-family: "Asap";
+    src: url(../fonts/Asap-Regular.ttf);
+}
+@font-face {
+    font-family: "Asap";
+    src: url(../fonts/Asap-Italic.ttf);
+    font-style: italic;
+}
+@font-face {
+    font-family: "Asap";
+    src: url(../fonts/Asap-Bold.ttf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: "Asap";
+    src: url(../fonts/Asap-BoldItalic.ttf);
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Asap";
+    src: url(../fonts/Asap-Medium.ttf);
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Asap";
+    src: url(../fonts/Asap-MediumItalic.ttf);
+    font-weight: 600;
+    font-style: italic;
+}

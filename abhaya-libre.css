@@ -1,0 +1,25 @@
+/* Abhaya Libre https://fonts.google.com/specimen/Abhaya+Libre */
+@font-face {
+    font-family: "Abhaya Libre";
+    src: url(../fonts/AbhayaLibre-Regular.ttf);
+}
+@font-face {
+    font-family: "Abhaya Libre";
+    src: url(../fonts/AbhayaLibre-Medium.ttf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Abhaya Libre";
+    src: url(../fonts/AbhayaLibre-Semibold.ttf);
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Abhaya Libre";
+    src: url(../fonts/AbhayaLibre-Bold.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Abhaya Libre";
+    src: url(../fonts/AbhayaLibre-ExtraBold.ttf);
+    font-weight: 800;
+}
