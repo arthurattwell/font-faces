@@ -1,26 +1,50 @@
-/* Montserrat https://www.google.com/fonts/specimen/Montserrat */
-/* Or https://github.com/google/fonts/tree/master/ofl/montserrat */
+/* Montserrat https://www.google.com/fonts/specimen/Montserrat
+ * Or https://github.com/google/fonts/tree/master/ofl/montserrat
+ * If you're using the Truetype (.ttf) files, substitute .ttf for .otf
+ * in the file names below.
+ */
+
 @font-face {
     font-family: "Montserrat";
-    src: url(../fonts/Montserrat-Regular.ttf);
+    src: url(../fonts/Montserrat-Thin.otf);
+    font-weight: 100;
 }
 @font-face {
     font-family: "Montserrat";
-    src: url(../fonts/Montserrat-Thin.ttf);
+    src: url(../fonts/Montserrat-ExtraLight.otf);
     font-weight: 200;
 }
 @font-face {
     font-family: "Montserrat";
-    src: url(../fonts/Montserrat-Light.ttf);
+    src: url(../fonts/Montserrat-Light.otf);
     font-weight: 300;
 }
 @font-face {
     font-family: "Montserrat";
-    src: url(../fonts/Montserrat-Bold.ttf);
+    src: url(../fonts/Montserrat-Regular.otf);
+}
+@font-face {
+    font-family: "Montserrat";
+    src: url(../fonts/Montserrat-Medium.otf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Montserrat";
+    src: url(../fonts/Montserrat-Semibold.otf);
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Montserrat";
+    src: url(../fonts/Montserrat-Bold.otf);
     font-weight: bold;
 }
 @font-face {
     font-family: "Montserrat";
-    src: url(../fonts/Montserrat-Black.ttf);
+    src: url(../fonts/Montserrat-ExtraBold.otf);
+    font-weight: 800;
+}
+@font-face {
+    font-family: "Montserrat";
+    src: url(../fonts/Montserrat-Black.otf);
     font-weight: 900;
 }
