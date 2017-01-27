@@ -1,5 +1,7 @@
 /* Crimson Text  */
 /* This is the Google Fonts version of Crimson Text */
+/* WE DO NOT RECOMMEND USING THIS FONT FOR PRINT, BECAUSE
+/* WE HAVE SEEN THE ITALIC 'D' CHARACTER CORRUPT ON SOME PRE-PRESS SYSTEMS. */
 @font-face {
     font-family: "Crimson Text";
     src: url(../fonts/CrimsonText-Roman.ttf);
