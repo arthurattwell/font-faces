@@ -1,0 +1,48 @@
+/* Merriweather https://fonts.google.com/specimen/Merriweather
+ * Or https://github.com/EbenSorkin/Merriweather
+ * If you're using the Truetype (.ttf) files, substitute .ttf for .otf
+ * in the file names below.
+ */
+
+@font-face {
+    font-family: "Merriweather";
+    src: url(../fonts/Merriweather-Light.otf);
+    font-weight: 300;
+}
+@font-face {
+    font-family: "Merriweather";
+    src: url(../fonts/Merriweather-LightItalic.otf);
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Merriweather";
+    src: url(../fonts/Merriweather-Regular.otf);
+}
+@font-face {
+    font-family: "Merriweather";
+    src: url(../fonts/Merriweather-Italic.otf);
+    font-style: italic;
+}
+@font-face {
+    font-family: "Merriweather";
+    src: url(../fonts/Merriweather-Bold.otf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: "Merriweather";
+    src: url(../fonts/Merriweather-BoldItalic.otf);
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Merriweather";
+    src: url(../fonts/Merriweather-Black.otf);
+    font-weight: 900;
+}
+@font-face {
+    font-family: "Merriweather";
+    src: url(../fonts/Merriweather-BlackItalic.otf);
+    font-weight: 900;
+    font-style: italic;
+}
