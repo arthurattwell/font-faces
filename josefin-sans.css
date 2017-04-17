@@ -1,0 +1,45 @@
+/* Josefin Sans https://fonts.google.com/specimen/Josefin+Sans
+ */
+
+@font-face {
+    font-family: "Josefin Sans";
+    src: url(../fonts/JosefinSans-Thin.otf);
+    font-weight: 100;
+}
+@font-face {
+    font-family: "Josefin Sans";
+    src: url(../fonts/JosefinSans-ThinItalic.otf);
+    font-weight: 100;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Josefin Sans";
+    src: url(../fonts/JosefinSans-Light.otf);
+    font-weight: 300;
+}
+@font-face {
+    font-family: "Josefin Sans";
+    src: url(../fonts/JosefinSans-LightItalic.otf);
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Josefin Sans";
+    src: url(../fonts/JosefinSans-Regular.otf);
+}
+@font-face {
+    font-family: "Josefin Sans";
+    src: url(../fonts/JosefinSans-Italic.otf);
+    font-style: italic;
+}
+@font-face {
+    font-family: "Josefin Sans";
+    src: url(../fonts/JosefinSans-Bold.otf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: "Josefin Sans";
+    src: url(../fonts/JosefinSans-BoldItalic.otf);
+    font-weight: bold;
+    font-style: italic;
+}
