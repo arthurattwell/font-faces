@@ -34,6 +34,17 @@
 }
 @font-face {
     font-family: "Josefin Sans";
+    src: url(../fonts/JosefinSans-SemiBold.otf);
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Josefin Sans";
+    src: url(../fonts/JosefinSans-SemiBoldItalic.otf);
+    font-weight: 600;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Josefin Sans";
     src: url(../fonts/JosefinSans-Bold.otf);
     font-weight: bold;
 }
