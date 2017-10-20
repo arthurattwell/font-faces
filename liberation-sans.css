@@ -1,0 +1,21 @@
+/* Liberation Sans https://pagure.io/liberation-fonts */
+@font-face {
+    font-family: "Liberation Sans";
+    src: url(../fonts/LiberationSans-Regular.ttf);
+}
+@font-face {
+    font-family: "Liberation Sans";
+    src: url(../fonts/LiberationSans-Italic.ttf);
+    font-style: italic;
+}
+@font-face {
+    font-family: "Liberation Sans";
+    src: url(../fonts/LiberationSans-Bold.ttf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: "Liberation Sans";
+    src: url(../fonts/LiberationSans-BoldItalic.ttf);
+    font-weight: bold;
+    font-style: italic;
+}
