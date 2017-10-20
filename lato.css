@@ -1,4 +1,7 @@
-/* Lato https://fonts.google.com/specimen/Lato */
+/* Lato https://fonts.google.com/specimen/Lato 
+Download from http://www.latofonts.com/lato-free-fonts/#download
+or https://github.com/google/fonts/tree/master/ofl/lato
+*/
 
 @font-face {
     font-family: "Lato";
@@ -8,6 +11,17 @@
 @font-face {
     font-family: "Lato";
     src: url(../fonts/Lato-HairlineItalic.ttf);
+    font-weight: 100;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Lato";
+    src: url(../fonts/Lato-Thin.ttf);
+    font-weight: 200;
+}
+@font-face {
+    font-family: "Lato";
+    src: url(../fonts/Lato-ThinItalic.ttf);
     font-weight: 100;
     font-style: italic;
 }
@@ -33,6 +47,28 @@
 }
 @font-face {
     font-family: "Lato";
+    src: url(../fonts/Lato-Medium.ttf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Lato";
+    src: url(../fonts/Lato-MediumItalic.ttf);
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Lato";
+    src: url(../fonts/Lato-Semibold.ttf);
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Lato";
+    src: url(../fonts/Lato-SemiboldItalic.ttf);
+    font-weight: 600;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Lato";
     src: url(../fonts/Lato-Bold.ttf);
     font-weight: bold;
 }
@@ -40,6 +76,17 @@
     font-family: "Lato";
     src: url(../fonts/Lato-BoldItalic.ttf);
     font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Lato";
+    src: url(../fonts/Lato-Heavy.ttf);
+    font-weight: 800;
+}
+@font-face {
+    font-family: "Lato";
+    src: url(../fonts/Lato-HeavyItalic.ttf);
+    font-weight: 800;
     font-style: italic;
 }
 @font-face {
