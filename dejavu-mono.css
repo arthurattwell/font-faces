@@ -1,0 +1,21 @@
+/* DejaVu https://dejavu-fonts.github.io */
+@font-face {
+    font-family: "DejaVu Mono";
+    src: url(../fonts/DejaVuSansMono.ttf);
+}
+@font-face {
+    font-family: "DejaVu Mono";
+    src: url(../fonts/DejaVuSansMono-Oblique.ttf);
+    font-style: italic;
+}
+@font-face {
+    font-family: "DejaVu Mono";
+    src: url(../fonts/DejaVuSansMono-Bold.ttf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: "DejaVu Mono";
+    src: url(../fonts/DejaVuSansMono-BoldOblique.ttf);
+    font-weight: bold;
+    font-style: italic;
+}
