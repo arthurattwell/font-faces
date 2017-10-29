@@ -1,5 +1,11 @@
-/* Inconsolata https://fonts.google.com/specimen/Inconsolata */
+/* Inconsolata https://fonts.google.com/specimen/Inconsolata
+               https://github.com/google/fonts/tree/master/ofl/inconsolata */
 @font-face {
     font-family: "Inconsolata", monospace;
     src: url(../fonts/Inconsolata-Regular.ttf);
+}
+@font-face {
+    font-family: "Inconsolata", monospace;
+    src: url(../fonts/Inconsolata-Bold.ttf);
+    font-weight: bold.
 }
