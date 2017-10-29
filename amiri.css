@@ -1,0 +1,34 @@
+/* Amiri https://github.com/alif-type/amiri */
+@font-face {
+    font-family: "Amiri";
+    src: url(../fonts/amiri-bold.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Amiri";
+    src: url(../fonts/amiri-boldslanted.ttf);
+    font-weight: 700;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Amiri";
+    src: url(../fonts/amiri-slanted.ttf);
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Amiri";
+    src: url(../fonts/amiri-regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Amiri Quran";
+    src: url(../fonts/amiri-quran.ttf);
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Amiri Quran Colored";
+    src: url(../fonts/amiri-quran-colored.ttf);
+    font-weight: 400;
+}
