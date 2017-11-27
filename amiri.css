@@ -1,4 +1,5 @@
-/* Amiri https://github.com/alif-type/amiri */
+/* Amiri https://github.com/alif-type/amiri
+   Note that Amiri has a bug with punctuation: https://github.com/alif-type/amiri/issues/131; */
 @font-face {
     font-family: "Amiri";
     src: url(../fonts/amiri-bold.ttf);
