@@ -1,0 +1,21 @@
+/* Quicksand 
+   https://fonts.google.com/specimen/Quicksand */
+@font-face {
+    font-family: "Quicksand";
+    src: url(../fonts/Quicksand-Light.ttf);
+    font-weight: 300;
+}
+@font-face {
+    font-family: "Quicksand";
+    src: url(../fonts/Quicksand-Regular.ttf);
+}
+@font-face {
+    font-family: "Quicksand";
+    src: url(../fonts/Quicksand-Medium.ttf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Quicksand";
+    src: url(../fonts/Quicksand-Bold.ttf);
+    font-weight: bold;
+}
