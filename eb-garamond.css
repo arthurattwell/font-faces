@@ -1,4 +1,12 @@
 /* EB Garamond https://fonts.google.com/specimen/EB+Garamond
+
+	Note: if using this with PrinceXML:
+	Prince enables certain opentype features by default
+	(https://www.princexml.com/doc-prince/#opentype-features).
+	This results in an italic e with a swash. You can avoid this
+	by turning off all defaults but liga:
+	em { font-variant: prince-opentype(liga); }
+
  */
 
 @font-face {
