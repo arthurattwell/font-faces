@@ -1,0 +1,88 @@
+/* Crimson Pro https://github.com/Fonthausen/CrimsonPro */
+
+@font-face {
+    font-family: "Crimson Pro";
+    src: url(../fonts/CrimsonPro-ExtraLight.ttf);
+    font-weight: 200;
+}
+@font-face {
+    font-family: "Crimson Pro";
+    src: url(../fonts/CrimsonPro-ExtraLightItalic.ttf);
+    font-weight: 200;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Crimson Pro";
+    src: url(../fonts/CrimsonPro-Light.ttf);
+    font-weight: 300;
+}
+@font-face {
+    font-family: "Crimson Pro";
+    src: url(../fonts/CrimsonPro-LightItalic.ttf);
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Crimson Pro";
+    src: url(../fonts/CrimsonPro-Regular.ttf);
+}
+@font-face {
+    font-family: "Crimson Pro";
+    src: url(../fonts/CrimsonPro-Italic.ttf);
+    font-style: italic;
+}
+@font-face {
+    font-family: "Crimson Pro";
+    src: url(../fonts/CrimsonPro-Medium.ttf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Crimson Pro";
+    src: url(../fonts/CrimsonPro-MediumItalic.ttf);
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Crimson Pro";
+    src: url(../fonts/CrimsonPro-SemiBold.ttf);
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Crimson Pro";
+    src: url(../fonts/CrimsonPro-SemiBoldItalic.ttf);
+    font-weight: 600;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Crimson Pro";
+    src: url(../fonts/CrimsonPro-Bold.ttf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: "Crimson Pro";
+    src: url(../fonts/CrimsonPro-BoldItalic.ttf);
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Crimson Pro";
+    src: url(../fonts/CrimsonPro-ExtraBold.ttf);
+    font-weight: 800;
+}
+@font-face {
+    font-family: "Crimson Pro";
+    src: url(../fonts/CrimsonPro-ExtraBoldItalic.ttf);
+    font-weight: 800;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Crimson Pro";
+    src: url(../fonts/CrimsonPro-Black.otf);
+    font-weight: 900;
+}
+@font-face {
+    font-family: "Crimson Pro";
+    src: url(../fonts/CrimsonPro-BlackItalic.otf);
+    font-weight: 900;
+    font-style: italic;
+}
