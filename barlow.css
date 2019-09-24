@@ -1,0 +1,99 @@
+/* Barlow https://github.com/jpt/barlow 
+          https://fonts.google.com/specimen/Barlow */
+@font-face {
+    font-family: "Barlow";
+    src: url(../fonts/Barlow-Thin.otf);
+    font-weight: 100;
+}
+@font-face {
+    font-family: "Barlow";
+    src: url(../fonts/Barlow-ThinItalic.otf);
+    font-weight: 100;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Barlow";
+    src: url(../fonts/Barlow-ExtraLight.otf);
+    font-weight: 200;
+}
+@font-face {
+    font-family: "Barlow";
+    src: url(../fonts/Barlow-ExtraLightItalic.otf);
+    font-weight: 200;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Barlow";
+    src: url(../fonts/Barlow-Light.otf);
+    font-weight: 300;
+}
+@font-face {
+    font-family: "Barlow";
+    src: url(../fonts/Barlow-LightItalic.otf);
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Barlow";
+    src: url(../fonts/Barlow-Regular.otf);
+}
+@font-face {
+    font-family: "Barlow";
+    src: url(../fonts/Barlow-Italic.otf);
+    font-style: italic;
+}
+@font-face {
+    font-family: "Barlow";
+    src: url(../fonts/Barlow-Medium.otf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Barlow";
+    src: url(../fonts/Barlow-MediumItalic.otf);
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Barlow";
+    src: url(../fonts/Barlow-SemiBold.otf);
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Barlow";
+    src: url(../fonts/Barlow-SemiBoldItalic.otf);
+    font-weight: 600;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Barlow";
+    src: url(../fonts/Barlow-Bold.otf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: "Barlow";
+    src: url(../fonts/Barlow-BoldItalic.otf);
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Barlow";
+    src: url(../fonts/Barlow-ExtraBold.otf);
+    font-weight: 800;
+}
+@font-face {
+    font-family: "Barlow";
+    src: url(../fonts/Barlow-ExtraBoldItalic.otf);
+    font-weight: 800;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Barlow";
+    src: url(../fonts/Barlow-Black.otf);
+    font-weight: 900;
+}
+@font-face {
+    font-family: "Barlow";
+    src: url(../fonts/Barlow-BlackItalic.otf);
+    font-weight: 900;
+    font-style: italic;
+}
