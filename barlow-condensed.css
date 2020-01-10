@@ -1,0 +1,99 @@
+/* Barlow Condensed https://github.com/jpt/barlow 
+                    https://fonts.google.com/specimen/Barlow+Condensed */
+@font-face {
+    font-family: "Barlow Condensed";
+    src: url(../fonts/BarlowCondensed-Thin.otf);
+    font-weight: 100;
+}
+@font-face {
+    font-family: "Barlow Condensed";
+    src: url(../fonts/BarlowCondensed-ThinItalic.otf);
+    font-weight: 100;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Barlow Condensed";
+    src: url(../fonts/BarlowCondensed-ExtraLight.otf);
+    font-weight: 200;
+}
+@font-face {
+    font-family: "Barlow Condensed";
+    src: url(../fonts/BarlowCondensed-ExtraLightItalic.otf);
+    font-weight: 200;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Barlow Condensed";
+    src: url(../fonts/BarlowCondensed-Light.otf);
+    font-weight: 300;
+}
+@font-face {
+    font-family: "Barlow Condensed";
+    src: url(../fonts/BarlowCondensed-LightItalic.otf);
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Barlow Condensed";
+    src: url(../fonts/BarlowCondensed-Regular.otf);
+}
+@font-face {
+    font-family: "Barlow Condensed";
+    src: url(../fonts/BarlowCondensed-Italic.otf);
+    font-style: italic;
+}
+@font-face {
+    font-family: "Barlow Condensed";
+    src: url(../fonts/BarlowCondensed-Medium.otf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Barlow Condensed";
+    src: url(../fonts/BarlowCondensed-MediumItalic.otf);
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Barlow Condensed";
+    src: url(../fonts/BarlowCondensed-SemiBold.otf);
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Barlow Condensed";
+    src: url(../fonts/BarlowCondensed-SemiBoldItalic.otf);
+    font-weight: 600;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Barlow Condensed";
+    src: url(../fonts/BarlowCondensed-Bold.otf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: "Barlow Condensed";
+    src: url(../fonts/BarlowCondensed-BoldItalic.otf);
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Barlow Condensed";
+    src: url(../fonts/BarlowCondensed-ExtraBold.otf);
+    font-weight: 800;
+}
+@font-face {
+    font-family: "Barlow Condensed";
+    src: url(../fonts/BarlowCondensed-ExtraBoldItalic.otf);
+    font-weight: 800;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Barlow Condensed";
+    src: url(../fonts/BarlowCondensed-Black.otf);
+    font-weight: 900;
+}
+@font-face {
+    font-family: "Barlow Condensed";
+    src: url(../fonts/BarlowCondensed-BlackItalic.otf);
+    font-weight: 900;
+    font-style: italic;
+}
