@@ -1,0 +1,84 @@
+// Spectral Small Caps https://fonts.google.com/specimen/Spectral+SC
+// WARNING: Use ttf for print, not otf, since some PDF readers
+// (including Adobe Acrobat) cannot read the OTF glyphs
+// on Spectral as of 20180505, and this may apply to SC, too.
+
+@font-face {
+	font-family: "Spectral SC";
+	src: url(../fonts/SpectralSC-ExtraLight.ttf);
+	font-weight: 200;
+}
+@font-face {
+	font-family: "Spectral SC";
+	src: url(../fonts/SpectralSC-ExtraLightItalic.ttf);
+	font-style: italic;
+	font-weight: 200;
+}
+@font-face {
+	font-family: "Spectral SC";
+	src: url(../fonts/SpectralSC-Light.ttf);
+	font-weight: 300;
+}
+@font-face {
+	font-family: "Spectral SC";
+	src: url(../fonts/SpectralSC-LightItalic.ttf);
+	font-style: italic;
+	font-weight: 300;
+}
+@font-face {
+	font-family: "Spectral SC";
+	src: url(../fonts/SpectralSC-Regular.ttf);
+	font-weight: 400;
+}
+@font-face {
+	font-family: "Spectral SC";
+	src: url(../fonts/SpectralSC-Italic.ttf);
+	font-style: italic;
+	font-weight: 400;
+}
+@font-face {
+	font-family: "Spectral SC";
+	src: url(../fonts/SpectralSC-Medium.ttf);
+	font-weight: 500;
+}
+@font-face {
+	font-family: "Spectral SC";
+	src: url(../fonts/SpectralSC-MediumItalic.ttf);
+	font-style: italic;
+	font-weight: 500;
+}
+@font-face {
+	font-family: "Spectral SC";
+	src: url(../fonts/SpectralSC-SemiBold.ttf);
+	font-weight: 600;
+}
+@font-face {
+	font-family: "Spectral SC";
+	src: url(../fonts/SpectralSC-SemiBoldItalic.ttf);
+	font-style: italic;
+	font-weight: 600;
+}
+@font-face {
+	font-family: "Spectral SC";
+	src: url(../fonts/SpectralSC-Bold.ttf);
+	font-weight: 700;
+    font-weight: bold;
+}
+@font-face {
+	font-family: "Spectral SC";
+	src: url(../fonts/SpectralSC-BoldItalic.ttf);
+	font-style: italic;
+	font-weight: 700;
+    font-weight: bold;
+}
+@font-face {
+	font-family: "Spectral SC";
+	src: url(../fonts/SpectralSC-ExtraBold.ttf);
+	font-weight: 800;
+}
+@font-face {
+	font-family: "Spectral SC";
+	src: url(../fonts/SpectralSC-ExtraBoldItalic.ttf);
+	font-style: italic;
+	font-weight: 800;
+}
