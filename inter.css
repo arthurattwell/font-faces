@@ -1,0 +1,91 @@
+/* Inter
+ * https://github.com/rsms/inter/
+ * https://fonts.google.com/specimen/Inter
+*/
+
+@font-face {
+    font-family: "Inter";
+    src: url(../fonts/Inter-ExtraLight.otf);
+    font-weight: 200;
+}
+@font-face {
+    font-family: "Inter";
+    src: url(../fonts/Inter-ExtraLightItalic.otf);
+    font-weight: 200;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Inter";
+    src: url(../fonts/Inter-Light.otf);
+    font-weight: 300;
+}
+@font-face {
+    font-family: "Inter";
+    src: url(../fonts/Inter-LightItalic.otf);
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Inter";
+    src: url(../fonts/Inter-Regular.otf);
+}
+@font-face {
+    font-family: "Inter";
+    src: url(../fonts/Inter-Italic.otf);
+    font-style: italic;
+}
+@font-face {
+    font-family: "Inter";
+    src: url(../fonts/Inter-Medium.otf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Inter";
+    src: url(../fonts/Inter-MediumItalic.otf);
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Inter";
+    src: url(../fonts/Inter-SemiBold.otf);
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Inter";
+    src: url(../fonts/Inter-SemiBoldItalic.otf);
+    font-weight: 600;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Inter";
+    src: url(../fonts/Inter-Bold.otf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: "Inter";
+    src: url(../fonts/Inter-BoldItalic.otf);
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Inter";
+    src: url(../fonts/Inter-ExtraBold.otf);
+    font-weight: 800;
+}
+@font-face {
+    font-family: "Inter";
+    src: url(../fonts/Inter-ExtraBoldItalic.otf);
+    font-weight: 800;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Inter";
+    src: url(../fonts/Inter-Black.otf);
+    font-weight: 900;
+}
+@font-face {
+    font-family: "Inter";
+    src: url(../fonts/Inter-BlackItalic.otf);
+    font-weight: 900;
+    font-style: italic;
+}
