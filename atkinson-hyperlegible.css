@@ -1,0 +1,25 @@
+/* Atkinson Hyperlegible
+ * https://fonts.google.com/specimen/Atkinson+Hyperlegible
+ * https://github.com/googlefonts/atkinson-hyperlegible
+*/
+
+@font-face {
+    font-family: "Atkinson Hyperlegible";
+    src: url(../fonts/AtkinsonHyperlegible-Regular.otf);
+}
+@font-face {
+    font-family: "Atkinson Hyperlegible";
+    src: url(../fonts/AtkinsonHyperlegible-Bold.otf);
+	font-weight: bold;
+}
+@font-face {
+    font-family: "Atkinson Hyperlegible";
+    src: url(../fonts/AtkinsonHyperlegible-Italic.otf);
+	font-style: italic;
+}
+@font-face {
+    font-family: "Atkinson Hyperlegible";
+    src: url(../fonts/AtkinsonHyperlegible-BoldItalic.otf);
+	font-weight: bold;
+	font-style: italic;
+}
