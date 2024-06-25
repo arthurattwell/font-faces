@@ -1,0 +1,32 @@
+/* Gabarito
+https://fonts.google.com/specimen/Gabarito */
+
+@font-face {
+    font-family: "Gabarito";
+    src: url(../fonts/Gabarito-Regular.ttf);
+}
+@font-face {
+    font-family: "Gabarito";
+    src: url(../fonts/Gabarito-Medium.ttf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Gabarito";
+    src: url(../fonts/Gabarito-SemiBold.ttf);
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Gabarito";
+    src: url(../fonts/Gabarito-Bold.ttf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: "Gabarito";
+    src: url(../fonts/Gabarito-ExtraBold.ttf);
+    font-weight: 800;
+}
+@font-face {
+    font-family: "Gabarito";
+    src: url(../fonts/Gabarito-Black.ttf);
+    font-weight: 900;
+}
