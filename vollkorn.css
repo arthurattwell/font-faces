@@ -1,0 +1,77 @@
+/* Vollkorn https://fonts.google.com/specimen/Vollkorn */
+
+@font-face {
+	font-family: "Vollkorn";
+	src: url(../fonts/Vollkorn-Regular.ttf);
+}
+
+@font-face {
+	font-family: "Vollkorn";
+	src: url(../fonts/Vollkorn-Italic.ttf);
+	font-style: italic;
+}
+
+@font-face {
+	font-family: "Vollkorn";
+	src: url(../fonts/Vollkorn-Medium.ttf);
+	font-weight: 500;
+}
+
+@font-face {
+	font-family: "Vollkorn";
+	src: url(../fonts/Vollkorn-MediumItalic.ttf);
+	font-weight: 500;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: "Vollkorn";
+	src: url(../fonts/Vollkorn-SemiBold.ttf);
+	font-weight: 600;
+}
+
+@font-face {
+	font-family: "Vollkorn";
+	src: url(../fonts/Vollkorn-SemiBoldItalic.ttf);
+	font-weight: 600;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: "Vollkorn";
+	src: url(../fonts/Vollkorn-Bold.ttf);
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: "Vollkorn";
+	src: url(../fonts/Vollkorn-BoldItalic.ttf);
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: "Vollkorn";
+	src: url(../fonts/Vollkorn-ExtraBold.ttf);
+	font-weight: 800;
+}
+
+@font-face {
+	font-family: "Vollkorn";
+	src: url(../fonts/Vollkorn-ExtraBoldItalic.ttf);
+	font-weight: 800;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: "Vollkorn";
+	src: url(../fonts/Vollkorn-Black.ttf);
+	font-weight: 800;
+}
+
+@font-face {
+	font-family: "Vollkorn";
+	src: url(../fonts/Vollkorn-BlackItalic.ttf);
+	font-weight: 800;
+	font-style: italic;
+}
