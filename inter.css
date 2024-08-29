@@ -5,6 +5,17 @@
 
 @font-face {
     font-family: "Inter";
+    src: url(../fonts/Inter-Thin.otf);
+    font-weight: 100;
+}
+@font-face {
+    font-family: "Inter";
+    src: url(../fonts/Inter-ThinItalic.otf);
+    font-weight: 100;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Inter";
     src: url(../fonts/Inter-ExtraLight.otf);
     font-weight: 200;
 }
